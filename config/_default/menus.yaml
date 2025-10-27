@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 658c4293-a548-0d33-b186-1c1a5ecfeccf
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 497b5349-2ecc-0a74-a239-510f6e7a7880
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: c3b2313b-4ec8-e75c-a7e0-3a96a66bd738
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 6d1f0411-e5b7-cd18-2564-1b62ab827d13
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: c0cab182-2414-b779-60bd-f90d4d9ce061
+  name: Libertarian Websites
+  pageRef: /pages/libertarian-websites
+  weight: 50
